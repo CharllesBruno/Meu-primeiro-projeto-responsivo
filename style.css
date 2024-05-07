@@ -21,9 +21,9 @@ header {
 .sign-up {
     width: 124px;
     height: 51px;
-    border-radius: 7px;
+    border-radius: 8px;
     border: none;
-    background: #ff0000;
+    background: greenyellow;
     margin-left: 50px;
     font-weight: 500;
     font-size: 16px;
