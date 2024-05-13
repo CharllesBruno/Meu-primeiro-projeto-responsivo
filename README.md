@@ -5,4 +5,3 @@
 <div>
     <img src="./Smartphone.png" alt="Wide-Coverage-foto">
 </div>
-<link rel="stylesheet" href="https://charllesbruno.github.io/Wide-Coverage/">
