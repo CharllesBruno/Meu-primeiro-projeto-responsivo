@@ -4,7 +4,6 @@
 
 <div>
     <img src="./Smartphone.png" alt="Wide-Coverage-foto">
-    <img src="./Minha-pagina.png" alt="Wide-Coverage-foto">
 </div>
 
 
